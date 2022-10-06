@@ -32,7 +32,7 @@
 ## &#128200; My GitHub History!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhii-m&show_icons=true&theme=dark)](https://github.com/serhii-m/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-m&layout=compact&theme=dark&card_width=450)](https://github.com/serhii-m)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-m&layout=compact&theme=dark&card_width=440)](https://github.com/serhii-m)
 
 ![Snake animation](https://github.com/serhii-m/serhii-m/blob/output/github-contribution-grid-snake.svg)
 
