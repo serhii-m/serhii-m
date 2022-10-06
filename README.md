@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=serhii-m)](https://github.com/serhii-m)      
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-m&layout=compact)](https://github.com/serhii-m)
 
