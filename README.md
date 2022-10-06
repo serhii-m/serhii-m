@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/74917493/194295871-0877c6ca-2b18-4104-bff8-df46cfb60b0c.png" alt="my banner" />
 </p>
 
-## Technical Skills
+## &#128188; Technical Skills
+
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -28,5 +29,10 @@
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-m&layout=compact)](https://github.com/serhii-m)
+## &#128200; My GitHub History!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serhii-m&show_icons=true&theme=dark)](https://github.com/serhii-m/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-m&layout=compact&theme=dark)](https://github.com/serhii-m)
+
+![Snake animation](https://github.com/serhii-m/serhii-m/blob/output/github-contribution-grid-snake.svg)
 
